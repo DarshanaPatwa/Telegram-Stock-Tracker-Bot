@@ -9,9 +9,11 @@ This Telegram Stock Market Bot project merges the worlds of finance and technolo
 # Command to Run the Program
 
 npm install node-telegram-bot-api axios
+
 node bot.js
 
 # OUTPUT
 
-![WhatsApp Image 2024-03-24 at 21 41 53_f541f43d](https://github.com/DarshanaPatwa/Telegram-Stock-Tracker-Bot/assets/163140481/3e399018-bc3d-4211-81e3-16629e57de70)
+![JS OUTPUT](https://github.com/DarshanaPatwa/Telegram-Stock-Tracker-Bot/assets/163140481/69e751ce-cfd9-4d44-944e-316a5675a6ba)
+
 
