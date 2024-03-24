@@ -12,8 +12,8 @@ npm install node-telegram-bot-api axios
 
 node bot.js
 
-# OUTPUT
+# Output
 
-![JS OUTPUT](https://github.com/DarshanaPatwa/Telegram-Stock-Tracker-Bot/assets/163140481/69e751ce-cfd9-4d44-944e-316a5675a6ba)
+![js output](https://github.com/DarshanaPatwa/Telegram-Stock-Tracker-Bot/assets/163140481/82f1d86c-ea4e-41d6-bbf0-1b943fbdb930)
 
 
